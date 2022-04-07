@@ -1,10 +1,11 @@
 #include <stdio.h>
-
 /**
- * main-entry point
- * description-prints "with proper grammar, but the outcome is a piece of
+ * main - Entry point
+ *
+ * Description: prints "with proper grammar, but the outcome is a piece of
  * art,"
- *return-always success 0
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
