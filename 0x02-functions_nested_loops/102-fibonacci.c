@@ -11,7 +11,9 @@ int main(void)
 	long int first, second;
 	int count;
 
-	sum, first, count = 0;
+	first = 0;
+	count = 0;
+	sum = 0;
 	second = 1;
 
 	while (count < 49)
