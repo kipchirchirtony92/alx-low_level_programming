@@ -8,4 +8,5 @@
 5. 5-strstr.c: function that locates a substring in a string.
 6. 7-print_chessboard.c: function that prints the chessboard.
 7. 8-print_diagsums.c: a function that prints the sum of the two diagonals of a square matrix of integers.
-8. 
+8. 100-set_string.c: a function that sets the value of a pointer to a char.
+9. 
